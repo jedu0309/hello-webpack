@@ -1,0 +1,23 @@
+
+
+@charset "utf-8";
+
+/******** 全站通用 *********/
+
+body {
+    font-family: "Microsoft YaHei" !important;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+input,
+textarea,
+select,
+button {
+    outline: none;
+    margin:0;
+    padding: 0;
+    border: 0;
+}
